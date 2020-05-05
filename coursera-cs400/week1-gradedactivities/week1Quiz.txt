@@ -1,0 +1,66 @@
+Week 1 Quiz
+Graded Quiz • 30 min
+Due Feb 17, 1:29 PM IST
+Week 1 Quiz
+TOTAL POINTS 10
+
+1.Question 1: One of these statements below is true and the other three are false. Which one is true?
+	Every variable in C++ has to be associated with a specific type
+	Every function in C++ must return a value.
+	Every variable in C++ holds either an integer, a character, a Boolean or a floating point value (of some precision).
+	A Boolean variable can only be assigned a value from this set of three reserved words: {true, false, undefined}.
+
+2.Question 2: According to the C++ standard, what is the name of the function is the starting point for a program?
+	main()
+	begin()
+	init()
+	start()
+
+3.Question 3: One of these statements below is true and the other three are false. Which one is true?
+	A class can consist of multiple member data variables, but the type of each data variable does not need to be specified until the class is used to declare a variable.
+	A class can consist of multiple member data variables, but all must be of the same type.
+	A class can consist of multiple member data variables of different types, but each member variable must be one of the built-in types.
+	A class can consist of multiple member data variables of different types, but each type must be specified when the class is defined.
+
+4.Question 4: One of these statements below is true and the other three are false. Which one is true?
+	Any functions that operate on a class’s member data variables must be implemented independent of the class in a separate .cpp file.
+	The member functions of a class always have access to every member data variable of that class.
+	The member functions of a class can only operate on member data variables of that class.
+	The member data variables in a class can only be accessed by the member functions of that class.
+
+5.Question 5: Which C++ directive is used to insert the contents of another file at the current location while processing the current file?
+	#include
+	#import
+	#library
+	#using
+
+6.Question 6: Given only the following code: which of the following syntax can be written outside of the namespace declaration to properly create a variable named “p” of type Pair?
+	uiuc/Pair p;
+	uiuc::Pair p;
+	(uiuc) Pair p;
+	Pair p;
+
+7.Question 7: Which keyword is used to indicate which namespace(s) to search to find classes and variables when they are referenced throughout the rest of the program?
+	namespace
+	using
+	uiuc
+	std
+
+8.Question 8: Why do we use namespaces in C++ programming?
+	Because it allows a library to claim a variable or class name that cannot be used by any other library.
+	Because two different libraries might use the same label for a class or variable
+	Because all references to variable and class names must be made through namespace.
+	Because all variable and class names must be defined using a namespace.
+
+9.Question 9: What is the namespace of the C++ Standard Library?
+	cstl
+	stdio
+	std
+	csl
+
+10.Question 10: Which operator is used to send a sequence of strings, numbers and other values to the standard library's cout object in a specific order so that they will be printed to the console?
+	<<
+	+
+	&
+	=
+
